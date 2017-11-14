@@ -1,3 +1,5 @@
+#Simple Pentesting tool to execute one or more given commands on a remote system 
+#using basic TCP sockets
 
 import sys
 import socket
