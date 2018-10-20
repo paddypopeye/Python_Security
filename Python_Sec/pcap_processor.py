@@ -101,4 +101,4 @@ def http_assembler(pcap_file):
 carved_images, faces_detected = http_assembler(pcap_file)
 
 print "Extracted: %d images" %carved_images
-print "Detected: %d faces" %faces_detecteda
+print "Detected: %d faces" %faces_detected
