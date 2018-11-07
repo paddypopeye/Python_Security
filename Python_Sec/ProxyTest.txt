@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<!--
+ __ __ __ __ __ _  __ __ __
+|__    __|   __  \|   __ __|
+   |  |  |  |  \  |  |__
+   |  |  |  |   | |   __|
+   |  |  |  |__/  |  |
+   |__|  |__ __ _/|__|
+-->
+<html lang="en">
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2265376-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-2265376-1', { 'anonymize_ip': true });
+</script>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Top Documentary Films - Watch Free Documentaries Online</title>
+
+<!-- <link rel="dns-prefetch" href="https://fonts.googleapis.com"> -->
+<link rel="dns-prefetch" href="https://fonts.gstatic.com">
+<link rel="dns-prefetch" href="https://ajax.googleapis.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.google-analytics.com">
+
+<link rel="stylesheet" href="https://topdocumentaryfilms.com/wp-content/themes/topdocs/css/min/86.css" type="text/css">
+
+<!--[if lt IE 9]>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="Top Documentary Films &#124; RSS Feed" href="https://topdocumentaryfilms.com/feed/">
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://topdocumentaryfilms.com/wp-content/themes/topdocs/images/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://topdocumentaryfilms.com/wp-content/themes/topdocs/images/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://topdocumentaryfilms.com/wp-content/themes/topdocs/images/icons/favicon-16x16.png">
+<link rel="manifest" href="/wp-content/themes/topdocs/images/icons/manifest.json?v=03112017">
+<link rel="mask-icon" href="https://topdocumentaryfilms.com/wp-content/themes/topdocs/images/icons/safari-pinned-tab.svg" color="#079ce9">
+<meta name="theme-color" content="#eeeeee">
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="TDF">
+
+
+<meta name="description" content="The world&#039;s greatest free documentary library - a place where documentaries are regarded as the supreme form of expression.">
+
+
+<link href="https://plus.google.com/+documentaries" rel="publisher">
+<meta property="og:title" content="Top Documentary Films - Watch Free Documentaries Online">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://topdocumentaryfilms.com/">
+<meta property="og:image" content="https://topdocumentaryfilms.com/wp-content/themes/topdocs/images/social-logo-new.png">
+<meta property="og:site_name" content="Top Documentary Films">
+<meta property="fb:app_id" content="106681966087673">
+<meta property="og:description" content="Watch free, streaming, online documentary films and movies. Collection of stunning, eyeopening, 
+interesting, controversial, full-length documentaries.">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@DocsOnline">
+<meta name="twitter:creator" content="@DocsOnline">
+
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebSite","name":"Top Documentary Films","url":"https:\/\/topdocumentaryfilms.com\/",
+"potentialAction":{"@type":"SearchAction","target":"https:\/\/topdocumentaryfilms.com\/search\/?results={search_term}","query-input":"required name=search_term"}}</script>
+
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","name":"Top Documentary Films","url":"https:\/\/topdocumentaryfilms.com\/",
+"sameAs":["https:\/\/www.facebook.com/TopDocumentaryFilms","https:\/\/plus.google.com/+documentaries","https:\/\/twitter.com/DocsOnline"]}</script>
+
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+
+<link rel="canonical" href="https://topdocumentaryfilms.com/">
+
+  <style type="text/css">
+    .hide_slot_300x250 { display: inline-block; width: 300px; height: 250px; }
+    .hide_slot_300x600 { display: inline-block; width: 300px; height: 600px; }
+    @media (max-width: 944px) { .hide_slot_300x250, .hide_slot_300x600 { display: none; } }
+  </style>
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-2600122794880266",
+            enable_page_level_ads: true
+       });
+  </script>
+
+<style>.button-1,aside .module h4{text-transform:uppercase;font-weight:700}.mailerlite-form input.error{color:red;border-color:red}.mailerlite-form label.error{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.mailerlite-form-loader{display:none;text-align:center;font-weight:700;margin:0 20px}.button-1{background:#4CA454!important;border-color:#4CA454!important;padding:5px 12px!important}.button-1:focus,.button-1:hover{background:#093!important}#mailerlite-1-field-email{border:1px solid #ccc!important}aside .module h4{font-size:14px;letter-spacing:-.02em;font-family:Montserrat,sans-serif;border-bottom:1px dotted #ccc;padding-bottom:5px;margin-bottom:10px}.email-field{width:58%;}@font-face{font-family:Montserrat;font-display:optional;font-style:normal;font-weight:400;src:local('Montserrat Regular'),local('Montserrat-Regular'),url(https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2'),url(https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459WlhzQ.woff) format('woff');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:Montserrat;font-display:optional;font-style:normal;font-weight:700;src:local('Montserrat Bold'),local('Montserrat-Bold'),url(https://fonts.gstatic.com/s/montserrat/v12/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2) format('woff2'),url(https://fonts.gstatic.com/s/montserrat/v12/JTURjIg1_i6t8kCHKm45_dJE3gnD-A.woff) format('woff');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Source Sans Pro';font-display:optional;font-style:normal;font-weight:400;src:local('Source Sans Pro Regular'),local('SourceSansPro-Regular'),url(https://fonts.gstatic.com/s/sourcesanspro/v11/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2) format('woff2'),url(https://fonts.gstatic.com/s/sourcesanspro/v11/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7j.woff) format('woff');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Source Sans Pro';font-display:optional;font-style:normal;font-weight:700;src:local('Source Sans Pro Bold'),local('SourceSansPro-Bold'),url(https://fonts.gstatic.com/s/sourcesanspro/v11/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu.woff2) format('woff2'),url(https://fonts.gstatic.com/s/sourcesanspro/v11/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdo.woff) format('woff');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}h1,h2,h3,h4,h5,h6{font-family:Montserrat,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif}.comment-button,.comment-form textarea,.commenter-inputs input,.reply a,.selection select,button,html,input[type=email],input[type=password],input[type=search],input[type=text],input[type=url]{font-family:"Source Sans Pro",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;font-weight:400}.contentpic ol li{margin:0 0 1rem 2.5rem}.single-h2-title h2, .storyline{font-size:15px;}</style>
+
+</head>
+
+<body id="top">
+
+<header class="top">
+
+<div class="top-bar clear">
+
+<h1><a class="logo" href="https://topdocumentaryfilms.com/">Top Documentary Films</a>
+</h1>
+<div class="nav-block clear">
+
+<nav class="main-nav" id="main-nav">
+  <a class="browse" href="https://topdocumentaryfilms.com/all/">Browse</a>
+  <a class="list" href="https://topdocumentaryfilms.com/watch-online/">List</a>
+  <a class="top-100" href="https://topdocumentaryfilms.com/top-100/">Top 100</a>
+</nav>
+
+  <div class="search" role="search">
+    <form id="search-form" action="https://topdocumentaryfilms.com/search/">
+        <button type="submit" id="button-search" aria-label="Search">
+          <svg viewBox="0 0 100 100" class="button-search">
+            <path id="shape-search" d="M3.327,96.684C5.534,98.895,8.434,100,11.331,100s5.797-1.105,8.004-3.316l21.321-21.322
+            c5.83,3.188,12.393,4.897,19.223,4.897c10.721,0,20.798-4.172,28.379-11.752c15.646-15.644,15.646-41.105,0.002-56.755
+            C80.677,4.171,70.598,0,59.877,0C49.159,0,39.08,4.171,31.504,11.752c-7.581,7.576-11.756,17.655-11.756,28.376
+            c0,6.832,1.71,13.396,4.9,19.226L3.327,80.675C-1.096,85.094-1.096,92.266,3.327,96.684z M59.879,68.938
+            c-7.695,0-14.93-2.996-20.371-8.435c-5.443-5.442-8.439-12.677-8.439-20.375c0-7.695,2.996-14.933,8.439-20.372
+            c5.441-5.44,12.676-8.436,20.369-8.436c7.698,0,14.936,2.997,20.378,8.436c11.231,11.236,11.231,29.515,0,40.747
+            C74.812,65.941,67.575,68.938,59.879,68.938z"/>
+          </svg>
+        </button>
+        <div class="no-overflow">
+          <label class="visuallyhidden" for="results">Search</label>
+          <input id="results" required="" type="search" name="results" class="search-field" value="" placeholder="Search this site&hellip;">
+        </div>
+    </form>
+  </div>
+
+</div> <!-- nav-block -->
+
+</div> <!-- top-bar -->
+
+</header> <!-- header -->
+
+<div class="page-wrap">
+  <div class="content-wrap">
+    <div class="group grid">
+      <main role="main" class="grid-2-3">
+
+<div class="module clear galery">
+
+
+<a href="https://topdocumentaryfilms.com/human-body-pushing-limits/" title="Human Body: Pushing The Limits"><img width="205" height="270" src="https://topdocumentaryfilms.com/wp-content/uploads/2010/03/human-body-pushing-limits-v2.jpg" class="alignleft wp-post-image" alt="Human Body: Pushing The Limits" /></a>
+
+<a href="https://topdocumentaryfilms.com/lost-gods-easter-island/" title="The Lost Gods of Easter Island"><img width="205" height="270" src="https://topdocumentaryfilms.com/wp-content/uploads/2010/04/lost-gods-easter-island-cover.jpg" class="alignleft wp-post-image" alt="The Lost Gods of Easter Island" /></a>
+
+<a href="https://topdocumentaryfilms.com/canada-toxic-chemical-valley/" title="Canada&#039;s Toxic Chemical Valley"><img width="205" height="270" src="https://topdocumentaryfilms.com/wp-content/uploads/2013/08/canada-toxic-chemical-valley.jpg" class="alignleft wp-post-image" alt="Canada&#039;s Toxic Chemical Valley" /></a>
+
+</div>	<!-- module galery -->
+
+<div class="title">FEATURED DOCUMENTARIES</div>
+
+
+<article class="module">
+
+<span class="excerptpic"><a href="https://topdocumentaryfilms.com/archeology-2-0/" title="Archeology 2.0"><img width="150" height="198" src="https://topdocumentaryfilms.com/wp-content/uploads/2018/10/archeology-2-0-150x198.jpg" class="alignleft wp-post-image" alt="Archeology 2.0" /></a></span>
+<h2><a href="https://topdocumentaryfilms.com/archeology-2-0/">Archeology 2.0</a></h2>
+
+<div class="meta-bar">
+	2017,	<a href="https://topdocumentaryfilms.com/category/science-technology/" rel="category tag">Science</a></div> <!-- meta-bar -->
+
+<p>Archeology 2.0 explores the means by which modern technologies are helping us to uncover the secrets of our past like never before. Northwest of Dublin, archeologists examine a series of tombs that were first constructed thousands of years ago....</p><div><a title="Archeology 2.0" href="https://topdocumentaryfilms.com/archeology-2-0/">Watch now &rarr;</a></div><span class="archive_rating"><span class="star_color">&#9733;</span> 9.44</span>
+
+</article>	<!-- article -->
+
+	<ins class="adsbygoogle"
+	     style="display:block; margin-bottom:8px; background: #fff;"
+	     data-ad-format="fluid"
+	     data-ad-layout-key="-e6-1y+i9-q5-a6"
+	     data-ad-client="ca-pub-2600122794880266"
+	     data-ad-slot="2974196679"></ins>
+	<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>		
+
+
+<article class="module">
+
+<span class="excerptpic"><a href="https://topdocumentaryfilms.com/making-future/" title="Making the Future"><img data-src="https://topdocumentaryfilms.com/wp-content/uploads/2017/12/making-future-150x198.jpg" width="150" height="198" class="alignleft wp-post-image lozad" alt="Making the Future"></a></span>
+<h2><a href="https://topdocumentaryfilms.com/making-future/">Making the Future</a></h2>
+
+<div class="meta-bar">
+	2014,	<a href="https://topdocumentaryfilms.com/category/technology/" rel="category tag">Technology</a></div> <!-- meta-bar -->
+
+<p>Our world is constantly evolving. In recent decades, the digital age has revolutionized the way we consume and share information while green technologies have given us the means to produce our own energy. Soon, the world may experience another seismic...</p><div><a title="Making the Future" href="https://topdocumentaryfilms.com/making-future/">Watch now &rarr;</a></div><span class="archive_rating"><span class="star_color">&#9733;</span> 7.39</span>
+
+</article>	<!-- article -->
+
+
+
+<article class="module">
+
+<span class="excerptpic"><a href="https://topdocumentaryfilms.com/lucent/" title="Lucent"><img data-src="https://topdocumentaryfilms.com/wp-content/uploads/2015/01/lucent-150x198.jpg" width="150" height="198" class="alignleft wp-post-image lozad" alt="Lucent"></a></span>
+<h2><a href="https://topdocumentaryfilms.com/lucent/">Lucent</a></h2>
+
+<div class="meta-bar">
+	2014,	<a href="https://topdocumentaryfilms.com/category/environment/" rel="category tag">Environment</a></div> <!-- meta-bar -->
+
+<p>The mother pigs are rigidly confined within a cage so constrictive that it only allows for the faintest of single steps. Once a day, they are beaten upright by factory workers to ensure that paralysis doesn&#039;t set in due to their lack of mobility....</p><div><a title="Lucent" href="https://topdocumentaryfilms.com/lucent/">Watch now &rarr;</a></div><span class="archive_rating"><span class="star_color">&#9733;</span> 8.94</span>
+
+</article>	<!-- article -->
+
+
+
+<article class="module">
+
+<span class="excerptpic"><a href="https://topdocumentaryfilms.com/camera-changed-world/" title="The Camera that Changed the World"><img data-src="https://topdocumentaryfilms.com/wp-content/uploads/2014/11/camera-changed-world-v4-150x198.jpg" width="150" height="198" class="alignleft wp-post-image lozad" alt="The Camera that Changed the World"></a></span>
+<h2><a href="https://topdocumentaryfilms.com/camera-changed-world/">The Camera that Changed the World</a></h2>
+
+<div class="meta-bar">
+	2011,	<a href="https://topdocumentaryfilms.com/category/technology/" rel="category tag">Technology</a></div> <!-- meta-bar -->
+
+<p>Prior to 1960, cameras capable of capturing the moving image were cumbersome and clunky, devoid of the ability to capture anything more than staged drama in a studio. As the 1950&#039;s wound down, filmmakers in the U.S. and France had a burning desire to...</p><div><a title="The Camera that Changed the World" href="https://topdocumentaryfilms.com/camera-changed-world/">Watch now &rarr;</a></div><span class="archive_rating"><span class="star_color">&#9733;</span> 8.96</span>
+
+</article>	<!-- article -->
+
+
+
+<div class="title">INCENTIVE</div>
+<div class="module">
+	<div class="docu-text">
+		<em><strong>Documentary Film</strong></em> is a broad category of visual expression that is based on the attempt, 
+		in one fashion or another, to document reality. Knowledge comes in different ways through our five senses. Hearing, 
+		watching, touching, smelling and tasting are the only doorways to the outer world. The wise men say that if something 
+		is not truly experienced with all our five senses, the experience will be partial, not total. Therefore in a way almost 
+		all our gained knowledge through life is partial. And maybe they are right.
+	</div>
+
+	If we follow that analogy, gaining knowledge through several senses simultaneously is better than through just one. So, 
+	educating through watching educational videos, in this case <strong><em>documentaries</em></strong>, is really a total 
+	different experience than educating only on books. Don't get me wrong, I'm not trying to undermine the books in any way. 
+	Having said that, lets go and check out some great docs right here, right now. You can 
+	<a href="https://topdocumentaryfilms.com/all/">browse all documentaries</a>, check out the complete 
+	<a href="https://topdocumentaryfilms.com/watch-online/">documentary list</a> or <a href="https://topdocumentaryfilms.com/top-100/">top 100 docs</a>. 
+	Also you can always browse documentaries by categories from the sidebar if you feel like.
+</div>	<!-- module -->
+
+<div class="title">FEATURED DOCUMENTARIES</div>
+
+<article class="module">
+
+<span class="excerptpic"><a href="https://topdocumentaryfilms.com/deserts/" title="Deserts"><img data-src="https://topdocumentaryfilms.com/wp-content/uploads/2014/01/deserts-150x198.jpg" width="150" height="198" class="alignleft wp-post-image lozad" alt="Deserts"></a></span>
+<h2><a href="https://topdocumentaryfilms.com/deserts/">Deserts</a></h2>
+
+<div class="meta-bar">
+	2004,	<a href="https://topdocumentaryfilms.com/category/nature-wildlife/" rel="category tag">Nature</a></div> <!-- meta-bar -->
+
+<p>A desert is a sandy or pebbly territory that lacks or has little vegetation because of an almost total absence of rain. It is also an unpopulated and undeveloped area. The word &#039;desert&#039; is very present in the semantic range. It alludes to the most...</p><div><a title="Deserts" href="https://topdocumentaryfilms.com/deserts/">Watch now &rarr;</a></div><span class="archive_rating"><span class="star_color">&#9733;</span> 6.89</span>
+
+</article>	<!-- article -->
+
+
+<article class="module">
+
+<span class="excerptpic"><a href="https://topdocumentaryfilms.com/hidden-influence-rise-collectivism/" title="Hidden Influence: The Rise of Collectivism"><img data-src="https://topdocumentaryfilms.com/wp-content/uploads/2015/04/hidden-influence-rise-collectivism-150x198.jpg" width="150" height="198" class="alignleft wp-post-image lozad" alt="Hidden Influence: The Rise of Collectivism"></a></span>
+<h2><a href="https://topdocumentaryfilms.com/hidden-influence-rise-collectivism/">Hidden Influence: The Rise of Collectivism</a></h2>
+
+<div class="meta-bar">
+	2015,	<a href="https://topdocumentaryfilms.com/category/crime-conspiracy/" rel="category tag">Conspiracy</a></div> <!-- meta-bar -->
+
+<p>To some extent, we are all capable of becoming slaves to the ideologies of others. But what if the world&#039;s elite could successfully infiltrate our educational system and other...</p><div><a title="Hidden Influence: The Rise of Collectivism" href="https://topdocumentaryfilms.com/hidden-influence-rise-collectivism/">Watch now &rarr;</a></div><span class="archive_rating"><span class="star_color">&#9733;</span> 6.72</span>
+
+</article>	<!-- article -->
+
+
+<article class="module">
+
+<span class="excerptpic"><a href="https://topdocumentaryfilms.com/wage-crisis/" title="Wage Crisis"><img data-src="https://topdocumentaryfilms.com/wp-content/uploads/2013/11/wage-crisis-150x198.jpg" width="150" height="198" class="alignleft wp-post-image lozad" alt="Wage Crisis"></a></span>
+<h2><a href="https://topdocumentaryfilms.com/wage-crisis/">Wage Crisis</a></h2>
+
+<div class="meta-bar">
+	2013,	<a href="https://topdocumentaryfilms.com/category/economics/" rel="category tag">Economics</a></div> <!-- meta-bar -->
+
+<p>The American working underclass has been under extreme tension for some time. Now with politicians not inclined to increase the minimum wage and food stamps stretched thin, the social ramification could be disastrous. The recession is not over for...</p><div><a title="Wage Crisis" href="https://topdocumentaryfilms.com/wage-crisis/">Watch now &rarr;</a></div><span class="archive_rating"><span class="star_color">&#9733;</span> 8.04</span>
+
+</article>	<!-- article -->
+
+
+<article class="module">
+
+<span class="excerptpic"><a href="https://topdocumentaryfilms.com/greater-good/" title="The Greater Good"><img data-src="https://topdocumentaryfilms.com/wp-content/uploads/2018/02/greater-good-150x198.jpg" width="150" height="198" class="alignleft wp-post-image lozad" alt="The Greater Good"></a></span>
+<h2><a href="https://topdocumentaryfilms.com/greater-good/">The Greater Good</a></h2>
+
+<div class="meta-bar">
+	2017,	<a href="https://topdocumentaryfilms.com/category/psychology/" rel="category tag">Psychology</a></div> <!-- meta-bar -->
+
+<p>Would you sacrifice one person to save the lives of five? For many, the answer to this conundrum would be obvious as most would chose to prevent the highest number of casualties. But would your natural instinct remain unchanged if this theory played...</p><div><a title="The Greater Good" href="https://topdocumentaryfilms.com/greater-good/">Watch now &rarr;</a></div><span class="archive_rating"><span class="star_color">&#9733;</span> 7.27</span>
+
+</article>	<!-- article -->
+
+
+<div class="title">ESSENCE</div>
+<div class="module">
+	<div class="docu-text">
+		We always have to keep in mind that a <em><strong>Documentary</strong>, after all, can tell lies and it can tell lies 
+		because it lays claim to a form of veracity which fiction doesn't</em>. Some of the documentaries are made just to discredit 
+		some particular person, party, organization, system etc, but most of them here on TDF are non biased, without prejudice and worth watching.
+	</div>
+
+	Overall at <strong><em>Top Documentary Films</em></strong> you can find thousands of stunning, eye-opening and interesting documentaries. 
+	Choose one that suits your interest through navigation system of TDF, watch it, and tell us how it was through comments. Go through this 
+	great collection of documentary movies, watch your favorite documentaries, share your thoughts and enjoy TDF.
+</div>	<!-- module -->
+
+
+
+</main> <!-- main -->
+
+<aside class="grid-1-3">
+
+
+	
+			<div class="module module-ad text_center">
+				<!-- Responsive ATF Sidebar (300x250) -->
+				<ins class="adsbygoogle hide_slot_300x250"
+				     data-ad-client="ca-pub-2600122794880266"
+				     data-ad-slot="6633947772"></ins>
+				<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+			</div> <!-- module-ad -->
+	<div class="module">
+		
+<div id="mailerlite-form_1" data-temp-id="5be04de03fd97">
+    <div class="mailerlite-form">
+        <form action="" method="post">
+            <div class="mailerlite-form-title"><h4>Free Email Updates</h4></div>
+                        <div class="mailerlite-form-inputs">
+                                                        <div class="mailerlite-form-loader">Please wait...</div>
+                    <div class="mailerlite-form-field mailerlite-subscribe-button-container">
+                        <label class="visuallyhidden" for="mailerlite-1-field-email">Email</label>
+                        <input id="mailerlite-1-field-email" type="email" required name="form_fields[email]" class="email-field" placeholder="your@email.com" />
+                                                <button class="mailerlite-subscribe-submit button button-1" type="submit" value="Subscribe">Subscribe</button>
+                    </div>
+                <input type="hidden" name="form_id" value="1"/>
+                <input type="hidden" name="action" value="mailerlite_subscribe_form"/>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    (function() {
+        var jQuery = window.jQueryWP || window.jQuery;
+
+        jQuery(document).ready(function () {
+            var form_container = jQuery("#mailerlite-form_1[data-temp-id=5be04de03fd97] form");
+            form_container.submit(function (e) {
+                e.preventDefault();
+            }).validate({
+                    submitHandler: function (form) {
+
+                        jQuery(this.submitButton).prop('disabled', true);
+
+                        form_container.find('.mailerlite-subscribe-button-container').fadeOut(function () {
+                            form_container.find('.mailerlite-form-loader').fadeIn()
+                        });
+
+                        var data = jQuery(form).serialize();
+
+                        jQuery.post('https://topdocumentaryfilms.com/wp-admin/admin-ajax.php', data, function (response) {
+                            form_container.find('.mailerlite-form-inputs').fadeOut(function () {
+                                form_container.find('.mailerlite-form-inputs').fadeIn()
+                                try { window.top.location.href = '/thank-you-newsletter/'; }
+                                catch (e) { window.location.href = '/thank-you-newsletter/'; }
+                            });
+                        });
+                    }
+            });
+        });
+    })();
+</script>
+	</div> <!-- module -->
+
+
+<nav class="module clear">
+	<h3>Categories</h3>
+			<div class="cat-wrap">
+		<ul class="cat-list">
+			<li>	<a href="https://topdocumentaryfilms.com/category/911/" >9/11</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/art-artists/" >Art and Artists</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/biography/" >Biography</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/comedy/" >Comedy</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/crime-conspiracy/" >Conspiracy</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/crime/" >Crime</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/drugs/" >Drugs</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/economics/" >Economics</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/environment/" >Environment</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/health/" >Health</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/history/" >History</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/media/" >Media</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/military-war/" >Military and War</a></li>		</ul>
+		<ul class="cat-list">
+			<li>
+	<a href="https://topdocumentaryfilms.com/category/mystery/" >Mystery</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/nature-wildlife/" >Nature</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/music-performing-arts/" >Performing Arts</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/philosophy/" >Philosophy</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/politics/" >Politics</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/psychology/" >Psychology</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/religion/" >Religion</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/science-technology/" >Science</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/sex/" >Sexuality</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/society/" >Society</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/sports/" >Sports</a></li><li>
+	<a href="https://topdocumentaryfilms.com/category/technology/" >Technology</a></li>		</ul>
+	</div>
+</nav> <!-- module -->
+
+
+	
+			<div class="module text_center module-ad">
+				<!-- Responsive MID Sidebar (300x600) -->
+				<ins class="adsbygoogle hide_slot_300x600"
+				     data-ad-client="ca-pub-2600122794880266"
+				     data-ad-slot="2482949772"></ins>
+				<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+			</div> <!-- module-ad -->
+	<section class="module">
+		<h3>Recently Added</h3>
+		<ul class="side-wrap clear">
+			
+			<li><a href="https://topdocumentaryfilms.com/want-sex-back/" title="I Want My Sex Back"><img data-src="https://topdocumentaryfilms.com/wp-content/uploads/2018/11/want-sex-back-95x125.jpg" width="95" height="125" class="alignleft wp-post-image lozad" alt="I Want My Sex Back">I Want My Sex Back</a><span class="meta-bar">Sexuality&nbsp;&nbsp;-&nbsp;&nbsp;27 min&nbsp;&nbsp;-&nbsp;<span class="star_color">&#9733;</span>5.75</span> <!-- meta-bar --><span class="side-desc">Author Rene Jax knew she was living in the wrong body as a...</span></li>
+			
+			<li><a href="https://topdocumentaryfilms.com/archeology-2-0/" title="Archeology 2.0"><img data-src="https://topdocumentaryfilms.com/wp-content/uploads/2018/10/archeology-2-0-95x125.jpg" width="95" height="125" class="alignleft wp-post-image lozad" alt="Archeology 2.0">Archeology 2.0</a><span class="meta-bar">Science&nbsp;&nbsp;-&nbsp;&nbsp;42 min&nbsp;&nbsp;-&nbsp;<span class="star_color">&#9733;</span>9.44</span> <!-- meta-bar --><span class="side-desc">Archeology 2.0 explores the means by which modern...</span></li>
+					</ul>
+	</section> <!-- module -->
+
+	<section class="module">
+		<h3>Highest Rated</h3>
+		<ul class="side-wrap clear">
+			
+			<li><a href="https://topdocumentaryfilms.com/state-surveillance/" title="State of Surveillance"><img data-src="https://topdocumentaryfilms.com/wp-content/uploads/2016/06/state-surveillance-95x125.jpg" width="95" height="125" class="alignleft wp-post-image lozad" alt="State of Surveillance">State of Surveillance</a><span class="meta-bar">Technology&nbsp;&nbsp;-&nbsp;&nbsp;27 min&nbsp;&nbsp;-&nbsp;<span class="star_color">&#9733;</span>9.30</span> <!-- meta-bar --><span class="side-desc">As you read this, your government could be thumbing through...</span></li>
+			
+			<li><a href="https://topdocumentaryfilms.com/children-full-of-life/" title="Children Full of Life"><img data-src="https://topdocumentaryfilms.com/wp-content/uploads/2010/08/children-full-life-95x125.jpg" width="95" height="125" class="alignleft wp-post-image lozad" alt="Children Full of Life">Children Full of Life</a><span class="meta-bar">Society&nbsp;&nbsp;-&nbsp;&nbsp;48 min&nbsp;&nbsp;-&nbsp;<span class="star_color">&#9733;</span>9.23</span> <!-- meta-bar --><span class="side-desc">Mr. Kanamori, a teacher of a 4th grade class, teaches his...</span></li>
+			
+			<li><a href="https://topdocumentaryfilms.com/cosmos/" title="Cosmos: A Personal Voyage"><img data-src="https://topdocumentaryfilms.com/wp-content/uploads/2007/04/cosmos-95x125.jpg" width="95" height="125" class="alignleft wp-post-image lozad" alt="Cosmos: A Personal Voyage">Cosmos: A Personal Voyage</a><span class="meta-bar">Science&nbsp;&nbsp;-&nbsp;&nbsp;780 min&nbsp;&nbsp;-&nbsp;<span class="star_color">&#9733;</span>9.21</span> <!-- meta-bar --><span class="side-desc">With Cosmos, Carl Sagan and his wife and co-writer, Ann...</span></li>
+					</ul>
+	</section> <!-- module -->
+
+	<section class="module">
+	<h3>Most Voted</h3>
+	<ul class="side-wrap clear">
+		
+		<li><a href="https://topdocumentaryfilms.com/evolution-vs-god/" title="Evolution Vs. God"><img data-src="https://topdocumentaryfilms.com/wp-content/uploads/2013/08/evolution-vs-god-95x125.jpg" width="95" height="125" class="alignleft wp-post-image lozad" alt="Evolution Vs. God">Evolution Vs. God</a><span class="meta-bar">Religion&nbsp;&nbsp;-&nbsp;&nbsp;38 min&nbsp;&nbsp;-&nbsp;<span class="star_color">&#9733;</span>3.73</span> <!-- meta-bar --><span class="side-desc">According to the documentary short Evolution vs. God,...</span></li>
+		
+		<li><a href="https://topdocumentaryfilms.com/perfect-vagina/" title="The Perfect Vagina"><img data-src="https://topdocumentaryfilms.com/wp-content/uploads/2010/02/perfect-vagina-doc-95x125.jpg" width="95" height="125" class="alignleft wp-post-image lozad" alt="The Perfect Vagina">The Perfect Vagina</a><span class="meta-bar">Sexuality&nbsp;&nbsp;-&nbsp;&nbsp;58 min&nbsp;&nbsp;-&nbsp;<span class="star_color">&#9733;</span>6.98</span> <!-- meta-bar --><span class="side-desc">What began as a wander through the wacky world of genital...</span></li>
+		
+		<li><a href="https://topdocumentaryfilms.com/cove/" title="The Cove"><img data-src="https://topdocumentaryfilms.com/wp-content/uploads/2010/04/cove-poster-95x125.jpg" width="95" height="125" class="alignleft wp-post-image lozad" alt="The Cove">The Cove</a><span class="meta-bar">Nature&nbsp;&nbsp;-&nbsp;&nbsp;92 min&nbsp;&nbsp;-&nbsp;<span class="star_color">&#9733;</span>8.59</span> <!-- meta-bar --><span class="side-desc">The Cove begins in Taiji, Japan, where former dolphin...</span></li>
+			</ul>
+</section> <!-- module -->
+
+<section class="module">
+	<h3>Most Shared</h3>
+	<ul class="side-wrap clear">
+		
+		<li><a href="https://topdocumentaryfilms.com/911-decade-deception/" title="9/11: Decade of Deception"><img data-src="https://topdocumentaryfilms.com/wp-content/uploads/2015/12/911-decade-deception-95x125.jpg" width="95" height="125" class="alignleft wp-post-image lozad" alt="9/11: Decade of Deception">9/11: Decade of Deception</a><span class="meta-bar">9/11&nbsp;&nbsp;-&nbsp;&nbsp;125 min&nbsp;&nbsp;-&nbsp;<span class="star_color">&#9733;</span>8.53</span> <!-- meta-bar --><span class="side-desc">In the years since the tragic events of September 11, 2001,...</span></li>
+		
+		<li><a href="https://topdocumentaryfilms.com/the-city-addicted-to-crystal-meth/" title="The City Addicted to Crystal Meth"><img data-src="https://topdocumentaryfilms.com/wp-content/uploads/2009/10/city-addicted-crystal-meth-95x125.jpg" width="95" height="125" class="alignleft wp-post-image lozad" alt="The City Addicted to Crystal Meth">The City Addicted to Crystal Meth</a><span class="meta-bar">Drugs&nbsp;&nbsp;-&nbsp;<span class="star_color">&#9733;</span>6.37</span> <!-- meta-bar --><span class="side-desc">Central Valley, California, is home to some of the most...</span></li>
+		
+		<li><a href="https://topdocumentaryfilms.com/the-take/" title="The Take"><img data-src="https://topdocumentaryfilms.com/wp-content/uploads/2008/12/the-take-95x125.jpg" width="95" height="125" class="alignleft wp-post-image lozad" alt="The Take">The Take</a><span class="meta-bar">Economics&nbsp;&nbsp;-&nbsp;&nbsp;87 min&nbsp;&nbsp;-&nbsp;<span class="star_color">&#9733;</span>8.36</span> <!-- meta-bar --><span class="side-desc">Production jobs in developed countries are moving to lower...</span></li>
+			</ul>
+</section> <!-- module -->
+
+
+</aside> <!-- aside -->
+</div> <!-- group -->
+</div> <!-- content-wrap -->
+
+<div class="footer-wrap">
+
+
+	<section class="footer-action clear">
+
+		<footer class="site-footer site-footer-social">
+	        <h4>Follow Us!</h4>
+	        <p>There are several ways to be notified about new content on TDF. Combined, there are more than <strong>200k people</strong> following us through these channels:
+	        </p>
+
+	    	<p>
+	    	<span class="social-wrap">
+			<a target="_blank" rel="nofollow noopener" title="Facebook" href="https://www.facebook.com/TopDocumentaryFilms">
+				<svg width="22" height="22" viewBox="0 0 100 100" class="shape-fb">
+				  <path d="M82.667,1H17.335C8.351,1,1,8.351,1,17.336v65.329c0,8.99,7.351,16.335,16.334,16.335
+				  h65.332 C91.652,99.001,99,91.655,99,82.665V17.337C99,8.353,91.652,1.001,82.667,1L82.667,1z M84.318,50H68.375
+				  v42.875H50V50h-8.855V35.973 H50v-9.11c0-12.378,5.339-19.739,19.894-19.739h16.772V22.3
+				  H72.967c-4.066-0.007-4.57,2.12-4.57,6.078l-0.023,7.594H86.75 l-2.431,14.027V50z"/>
+				</svg>
+			</a>
+
+			<a target="_blank" rel="nofollow noopener" title="Twitter" href="https://twitter.com/DocsOnline">
+				<svg width="22" height="22" viewBox="0 0 100 100" class="shape-tw">
+				  <path d="M99.001,19.428c-3.606,1.608-7.48,2.695-11.547,3.184
+				  c4.15-2.503,7.338-6.466,8.841-11.189 c-3.885,2.318-8.187,4-12.768,4.908c-3.667-3.931-8.893-6.387-14.676-6.387
+				  c-11.104,0-20.107,9.054-20.107,20.223 c0,1.585,0.177,3.128,0.52,4.609c-16.71-0.845-31.525-8.895-41.442-21.131
+				  C6.092,16.633,5.1,20.107,5.1,23.813 c0,7.017,3.55,13.208,8.945,16.834  c-3.296-0.104-6.397-1.014-9.106-2.529
+				  c-0.002,0.085-0.002,0.17-0.002,0.255 c0,9.799,6.931,17.972,16.129,19.831  c-1.688,0.463-3.463,0.71-5.297,0.71
+				  c-1.296,0-2.555-0.127-3.783-0.363 c2.559,8.034,9.984,13.882,18.782,14.045c-6.881,5.424-15.551,8.657-24.971,8.657
+				  c-1.623,0-3.223-0.096-4.796-0.282 c8.898,5.738,19.467,9.087,30.82,9.087c36.982,0,57.206-30.817,57.206-57.543
+				  c0-0.877-0.02-1.748-0.059-2.617 C92.896,27.045,96.305,23.482,99.001,19.428z"/>
+				</svg>
+			</a>
+
+			<a target="_blank" rel="nofollow noopener" title="Google+" href="https://plus.google.com/+documentaries">
+				<svg width="22" height="22" viewBox="0 0 100 100" class="shape-gl">
+				  <path d="M1.079,84.227c-0.024-0.242-0.043-0.485-0.056-0.73C1.036,83.742,1.055,83.985,1.079,84.227
+				  z M23.578,55.086 c8.805,0.262,14.712-8.871,13.193-20.402c-1.521-11.53-9.895-20.783-18.701-21.046
+				  C9.264,13.376,3.357,22.2,4.878,33.734 C6.398,45.262,14.769,54.823,23.578,55.086z M98.999,25.501v-8.164
+				  c0-8.984-7.348-16.335-16.332-16.335H17.336 c-8.831,0-16.078,7.104-16.323,15.879c5.585-4.917,13.333-9.026,21.329-9.026
+				  c8.546,0,34.188,0,34.188,0l-7.651,6.471H38.039 c7.19,2.757,11.021,11.113,11.021,19.687c0,7.201-4.001,13.393-9.655,17.797
+				  c-5.516,4.297-6.562,6.096-6.562,9.749 c0,3.117,5.909,8.422,8.999,10.602c9.032,6.368,11.955,12.279,11.955,22.15
+				  c0,1.572-0.195,3.142-0.58,4.685h29.451 C91.652,98.996,99,91.651,99,82.661V31.625H80.626v18.374h-6.125V31.625H56.127V25.5
+				  h18.374V7.127h6.125V25.5H99L98.999,25.501z M18.791,74.301c2.069,0,3.964-0.057,5.927-0.057c-2.598-2.52-4.654-5.608-4.654-9.414
+				  c0-2.259,0.724-4.434,1.736-6.366 c-1.032,0.073-2.085,0.095-3.17,0.095c-7.116,0-13.159-2.304-17.629-6.111
+				  v6.435l0.001,19.305 C6.116,75.76,12.188,74.301,18.791,74.301L18.791,74.301z M1.329,85.911
+				  c-0.107-0.522-0.188-1.053-0.243-1.591 C1.141,84.858,1.223,85.389,1.329,85.911z M44.589,92.187
+				  c-1.442-5.628-6.551-8.418-13.675-13.357 c-2.591-0.836-5.445-1.328-8.507-1.36c-8.577-0.092-16.566,3.344-21.074,8.457
+				  c1.524,7.436,8.138,13.068,16.004,13.068h27.413 c0.173-1.065,0.258-2.166,0.258-3.295C45.007,94.502,44.86,93.329,44.589,92.187z"/>
+				</svg>
+			</a>
+
+			<a target="_blank" rel="nofollow" title="RSS" href="https://topdocumentaryfilms.com/feed/">
+				<svg width="22" height="22" viewBox="0 0 100 100" class="shape-rss">
+				  <path d="M14.044,72.866C6.848,72.866,1,78.736,1,85.889c0,7.192,5.848,12.997,13.044,12.997
+				  c7.223,0,13.062-5.804,13.062-12.997 C27.106,78.736,21.267,72.866,14.044,72.866z M1.015,34.299v18.782
+				  c12.229,0,23.73,4.782,32.392,13.447 C42.057,75.172,46.832,86.725,46.832,99h18.865C65.697,63.321,36.672,34.3,1.015,34.299
+				  L1.015,34.299z M1.038,1v18.791 C44.657,19.792,80.16,55.329,80.16,99H99C99,44.979,55.048,1,1.038,1z"/>
+				</svg>
+			</a>
+		</span>
+		</p>
+
+	    </footer>
+
+		<footer class="site-footer site-footer-newsletter">
+			
+<div id="mailerlite-form_2" data-temp-id="5be04de05edfd">
+    <div class="mailerlite-form">
+        <form action="" method="post">
+            <div class="mailerlite-form-title"><h4>Get the newsletter!</h4></div>
+            <p>You should sign up for our newsletter. It's a free compilation of all documentaries posted each week, straight to your inbox.</p>
+            <div class="mailerlite-form-inputs">
+                                                        <div class="mailerlite-form-loader">Please wait...</div>
+                    <div class="mailerlite-form-field mailerlite-subscribe-button-container">
+                        <label class="visuallyhidden" for="mailerlite-2-field-email">Email</label>
+                        <input id="mailerlite-2-field-email" type="email" required name="form_fields[email]" class="email-field" placeholder="your@email.com" />
+                                                <button class="mailerlite-subscribe-submit button button-2" type="submit" value="Subscribe">Subscribe</button>
+                    </div>
+                <input type="hidden" name="form_id" value="2"/>
+                <input type="hidden" name="action" value="mailerlite_subscribe_form"/>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    (function() {
+        var jQuery = window.jQueryWP || window.jQuery;
+
+        jQuery(document).ready(function () {
+            var form_container = jQuery("#mailerlite-form_2[data-temp-id=5be04de05edfd] form");
+            form_container.submit(function (e) {
+                e.preventDefault();
+            }).validate({
+                    submitHandler: function (form) {
+
+                        jQuery(this.submitButton).prop('disabled', true);
+
+                        form_container.find('.mailerlite-subscribe-button-container').fadeOut(function () {
+                            form_container.find('.mailerlite-form-loader').fadeIn()
+                        });
+
+                        var data = jQuery(form).serialize();
+
+                        jQuery.post('https://topdocumentaryfilms.com/wp-admin/admin-ajax.php', data, function (response) {
+                            form_container.find('.mailerlite-form-inputs').fadeOut(function () {
+                                form_container.find('.mailerlite-form-inputs').fadeIn()
+                                try { window.top.location.href = '/thank-you-newsletter/'; }
+                                catch (e) { window.location.href = '/thank-you-newsletter/'; }
+                            });
+                        });
+                    }
+            });
+        });
+    })();
+</script>
+		</footer>
+	    
+	</section>
+
+
+<footer class="site-footer site-footer-links">
+      <nav>
+        <a href="https://topdocumentaryfilms.com/terms-of-use/">Terms</a>
+        <a href="https://topdocumentaryfilms.com/privacy-policy/">Privacy</a>
+        <a href="https://topdocumentaryfilms.com/faq/">F.A.Q.</a>
+        <a href="https://topdocumentaryfilms.com/comment-faq/">Community</a>
+        <a href="https://topdocumentaryfilms.com/about/">About</a>
+        <a href="https://topdocumentaryfilms.com/contact/">Contact</a>
+        <span class="copy">TDF &copy; 2018</span>
+      </nav>
+</footer>
+ 
+</div> <!-- footer-wrap -->
+
+</div> <!-- page-wrap -->
+
+
+<script src="https://topdocumentaryfilms.com/wp-content/themes/topdocs/js/observer/observer.min.js"></script>
+<script>const observer=lozad(".lozad",{rootMargin:"150px 0px",threshold:.01});observer.observe();</script>
+
+
+<script defer src="https://topdocumentaryfilms.com/wp-content/themes/topdocs/js/mailerlite/jquery.validate.min.js"></script>
+
+<a href="/docpot/" rel="nofollow" class="hide visuallyhidden" aria-hidden="true">Docpot</a>
+
+</body>
+</html>
