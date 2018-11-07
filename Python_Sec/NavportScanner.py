@@ -17,7 +17,7 @@ def sniffDot11(pkt):
 			addr2 = pkt.getlayer(Dot11).addr2
 			if addr2 not in decloaked:
 				print '[-] Found SSID: with MAC: ' + addr2
-				hidddenNets,append(addr2)
+				hidddenNets.append(addr2)
 
 sniff(iface=interface, prn=sniffDot11)
 
