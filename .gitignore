@@ -1,17 +1,7 @@
-SenziScan.xml
-SenziScan.nmap
-SenziScan.xml
-SenziScan.gnmap
-fastflux.pcap
-fastflux.pcap.pcapng
-test.zip
-test.pcap
-test.pcapng
-build/
-ChaptersViolentPythob/
-dist/
-test.zip
-Module 2/
-Module 3/
-SecuityPy3/
+*.xml
+*.nmap
+*.pcap
+*.pcapng
+*.zip
+Resources/
 
