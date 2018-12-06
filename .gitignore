@@ -1,7 +1,9 @@
+*.rc
 *.xml
 *.nmap
 *.pcap
 *.pcapng
 *.zip
 Resources/
+ChaptersViolentPython/
 
