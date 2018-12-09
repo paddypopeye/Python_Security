@@ -1,12 +1,9 @@
-#!/usr/bin/python3
 import re
-
 
 def main():
 	ReplaceWord()
 	DemarcationLine()
 	MatchAndReplaceWord()
-
 
 def ReplaceWord():
 	try:
@@ -16,8 +13,6 @@ def ReplaceWord():
 
 	except FileNotFound as e:
 		print('File not found...', e)
-
-
 
 def MatchAndReplaceWord():
 	try:
@@ -37,5 +32,3 @@ def DemarcationLine():
 
 if __name__ == '__main__':
 	main()
-
-

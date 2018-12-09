@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 class InclusiveRange:
 	"""docstring for InclusiceRange"""
 	def __init__(self, *args):
@@ -39,4 +37,3 @@ def main():
 
 if __name__ == '__main__':
 	main()
-		
